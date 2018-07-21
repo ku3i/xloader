@@ -2,13 +2,12 @@
 /*-----------------------------+
  | Supreme Machines            |
  | Sensorimotor rev1-1         |
- | Ping Example                |
+ | Motor Control Example       |
  | Matthias Kubisch            |
  | Berlin, July 20th 2018      |
  +-----------------------------+
- | LED blinks long MotorID+1   |
- | times if a motor responded  |
- | to the ping cmd send.       |
+ | Starts turning the motor    |
+ | with PWM mode.              |
  +-----------------------------*/
 
 
